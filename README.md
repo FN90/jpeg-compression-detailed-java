@@ -6,4 +6,4 @@ It was developed using pure Java language. Thanks to <a href="http://eagle.uccb.
 
 <b>Developed:</b> August 2014
 <br>
-<b>Developed:</b> July 2017
+<b>Published for the first time:</b> July 2017
